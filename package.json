@@ -35,5 +35,13 @@
     "redux-thunk": "^2.1.0",
     "rodal": "^1.4.0",
     "webpack": "^1.12.2"
+  },
+  "engines": {
+    "node": "6.2.1",
+    "npm": "3.9.3"
+  },
+  "scripts": {
+    "postinstall": "webpack"
   }
+
 }
