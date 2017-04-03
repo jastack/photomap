@@ -1,24 +1,7 @@
-# README
+# Name of App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+(Name of App) is a mobile application built on React Native which accesses the Instagram API to display public photos that were taken near the current location of the user. This can give a general overview of popular places to visit in the area as well as inspiration for photos.
 
-Things you may want to cover:
+## Minimum Viable Product
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Mobile app?
